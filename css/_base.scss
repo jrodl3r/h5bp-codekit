@@ -1,0 +1,73 @@
+//
+// Author's SASS, Compass & CSS Base Stylesheet
+//
+// ==========================================================================
+
+// ==========================================================================
+// Author: Custom Variables (Place your custom variables)
+// ==========================================================================
+
+$page-width:             100%;
+$font-color:             #555;
+$title-font-family:      Helvetica;
+$link-color:             #00e !default;
+$link-hover-color:       #06e !default;
+$link-visited-color:     #551a8b !default;
+
+
+// ==========================================================================
+// Custom Mixins
+// ==========================================================================
+
+@mixin container {
+	// EXAMPLE Global Wrapper Setup
+	// width: $container-width;
+}
+
+@mixin layout {
+	// EXAMPLE Global Layout Setup
+	//  .wrapper { @include container; }
+	//   header,
+	//   footer { }
+	//   aside { }
+}
+
+
+// ==========================================================================
+// Custom styles (Place your CSS/SCSS below)
+// ==========================================================================
+
+// Get Some
+
+@include layout;
+
+h1 {
+  font-family: $title-font-family;
+}
+
+span {
+  color: $font-color;
+}
+
+a {
+  color: $link-color;
+  &:hover { color: $link-hover-color; }
+  &:visited { color: $link-visited-color; }
+}
+
+
+// ==========================================================================
+// Media Queries for Responsive Design
+// EXAMPLE: Modify as content requires.
+// Theses examples override the primary (above) styles.
+// ==========================================================================
+
+@media only screen and (min-width: 35em) {
+    // Style adjustments for viewports that meet the condition
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (min-resolution: 144dpi) {
+    // Style adjustments for high resolution devices
+}
+

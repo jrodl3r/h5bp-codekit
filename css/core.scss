@@ -1,0 +1,40 @@
+//
+// HTML5 Boilerplate w/ SASS & Compass Core Stylesheet Assembly
+//
+// This is where all CSS Libraries are imported and assembled into the core
+// stylesheet. Please place your custom project variables, mixins and
+// styles in _base.scss. Also, please refer to the [SETUP .NFO FILE] for
+// more information on next-steps to configure Coda, CodeKit & More. Enjoy!
+//
+// ==========================================================================
+
+// ==========================================================================
+// Library: Import CSS Libraries (Author Styles go in css/_base.scss)
+// ==========================================================================
+
+@import "compass";
+@import "compass/layout";
+@import "normalize";
+@import "h5bp";
+
+// ==========================================================================
+// Library: Build Core Stylesheet
+// ==========================================================================
+
+/* Normalize */
+@include normalize;
+
+/* H5BP-Defaults */
+@include h5bp-default;
+
+/* H5BP-Chromeframe */
+@include h5bp-chromeframe;
+
+/* Author's Styles */
+@import "base";
+
+/* H5BP-Helpers */
+@include h5bp-helpers;
+
+/* H5BP-Media */
+@include h5bp-media;
