@@ -1,9 +1,9 @@
 /* ==========================================================================
    Core JS Library
    ========================================================================== */
-
-
+   /*jslint browser: true*/ /*globals $, jQuery*/
 (function(){
-	// get some..
-	console.log('It\'s time to kick ass and chew bubble gum..');
+	
+	// Get Some..
+	
 }());

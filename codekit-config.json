@@ -2,17 +2,6 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "7839",
   "files" : {
-    "\/js\/core-ck.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/core-ck.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 2,
-      "outputAbbreviatedPath" : "\/js\/core-ck-ck.js",
-      "fileType" : 64
-    },
     "\/css\/h5bp\/_media.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -24,6 +13,17 @@
       "outputAbbreviatedPath" : "\/css\/_media.css",
       "fileType" : 4,
       "debugStyle" : 1
+    },
+    "\/img\/compass-logo.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/compass-logo.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/compass-logo.png",
+      "initialSize" : 10039,
+      "fileType" : 8192
     },
     "\/css\/h5bp\/_helpers.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -46,17 +46,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/css\/h5bp\/_default.scss" : {
+    "\/js\/core-ck.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/h5bp\/_default.scss",
+      "inputAbbreviatedPath" : "\/js\/core-ck.js",
       "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_default.css",
-      "fileType" : 4,
-      "debugStyle" : 1
+      "syntaxCheckerStyle" : 2,
+      "outputAbbreviatedPath" : "\/js\/core-ck-ck.js",
+      "fileType" : 64
     },
     "\/css\/core.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -70,16 +69,16 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/img\/compass-logo.png" : {
+    "\/js\/core.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/compass-logo.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/compass-logo.png",
-      "initialSize" : 10039,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/js\/core.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 2,
+      "outputAbbreviatedPath" : "\/js\/core-ck.js",
+      "fileType" : 64
     },
     "\/css\/_normalize.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -93,17 +92,6 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/js\/vendor\/jquery-1.8.2.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/vendor\/jquery-1.8.2.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 2,
-      "outputAbbreviatedPath" : "\/js\/vendor\/jquery-1.8.2.min-ck.js",
-      "fileType" : 64
-    },
     "\/css\/_base.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -116,14 +104,26 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/css\/core.css" : {
+    "\/css\/h5bp\/_default.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/core.css",
+      "inputAbbreviatedPath" : "\/css\/h5bp\/_default.scss",
+      "outputStyle" : 1,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_default.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/config.rb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/config.rb",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "fileType" : 32768
     },
     "\/js\/vendor\/modernizr-2.6.2.min.js" : {
       "ignoreWasSetByUser" : 0,
@@ -134,29 +134,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 2,
       "outputAbbreviatedPath" : "\/js\/vendor\/modernizr-2.6.2.min-ck.js",
-      "fileType" : 64
-    },
-    "\/css\/_h5bp.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_h5bp.scss",
-      "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_h5bp.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/js\/plugins.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/plugins.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 2,
-      "outputAbbreviatedPath" : "\/js\/plugins-ck.js",
       "fileType" : 64
     },
     "\/js\/plugins-ck.js" : {
@@ -170,25 +147,48 @@
       "outputAbbreviatedPath" : "\/js\/plugins-ck-ck.js",
       "fileType" : 64
     },
-    "\/config.rb" : {
+    "\/js\/plugins.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/config.rb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 32768
-    },
-    "\/js\/core.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/core.js",
+      "inputAbbreviatedPath" : "\/js\/plugins.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 2,
-      "outputAbbreviatedPath" : "\/js\/core-ck.js",
+      "outputAbbreviatedPath" : "\/js\/plugins-ck.js",
       "fileType" : 64
+    },
+    "\/css\/core.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/core.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/js\/vendor\/jquery-1.8.2.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/vendor\/jquery-1.8.2.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 2,
+      "outputAbbreviatedPath" : "\/js\/vendor\/jquery-1.8.2.min-ck.js",
+      "fileType" : 64
+    },
+    "\/css\/_h5bp.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/_h5bp.scss",
+      "outputStyle" : 1,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_h5bp.css",
+      "fileType" : 4,
+      "debugStyle" : 1
     },
     "\/css\/h5bp\/_chromeframe.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -331,10 +331,10 @@
       "vars" : 0,
       "anon" : 1,
       "sub" : 0,
-      "stupid" : 1,
+      "stupid" : 0,
       "nomen" : 0,
       "unparam" : 0,
-      "newcap" : 0,
+      "newcap" : 1,
       "'continue'" : 0,
       "sloppy" : 1,
       "fragment" : 0,
@@ -343,10 +343,10 @@
       "browser" : 0,
       "properties" : 0,
       "forin" : 0,
-      "plusplus" : 0,
+      "plusplus" : 1,
       "debug" : 1,
       "eqeq" : 0,
-      "confusion" : 1,
+      "confusion" : 0,
       "evil" : 0,
       "on" : 0,
       "cap" : 0,

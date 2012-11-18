@@ -34,26 +34,25 @@ $link-visited-color:     #551a8b !default;
 
 
 // ==========================================================================
-// Custom styles (Place your CSS/SCSS below)
+// Custom Styles (Place your CSS/SCSS below)
 // ==========================================================================
 
-// Get Some
+// Get Some..
 
-@include layout;
-
-h1 {
-  font-family: $title-font-family;
-}
-
-span {
-  color: $font-color;
-}
-
-a {
-  color: $link-color;
-  &:hover { color: $link-hover-color; }
-  &:visited { color: $link-visited-color; }
-}
+// EXAMPLE Custom Styles
+// @include layout;
+//
+// h1 {
+//   font-family: $title-font-family;
+// }
+// span {
+//   color: $font-color;
+// }
+// a {
+//   color: $link-color;
+//   &:hover { color: $link-hover-color; }
+//   &:visited { color: $link-visited-color; }
+// }
 
 
 // ==========================================================================

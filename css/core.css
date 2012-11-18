@@ -1,36 +1,36 @@
 /* Normalize */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000328}}
 article, aside, details, figcaption, figure, footer, header, hgroup, nav,
 section, summary {
   display: block;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000333}}
 audio, canvas, video {
   display: inline-block;
   *display: inline;
   *zoom: 1;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000341}}
 audio:not([controls]) {
   display: none;
   height: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000349}}
 [hidden] {
   display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000362}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000362}}
 html {
   font-size: 100%;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000374}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000374}}
 html,
 button,
 input,
@@ -39,120 +39,120 @@ textarea {
   font-family: sans-serif;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000379}}
 body {
   margin: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000389}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000389}}
 a:focus {
   outline: thin dotted;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\0000395}}
 a:active,
 a:hover {
   outline: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003107}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003107}}
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003111}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003111}}
 h2 {
   font-size: 1.5em;
   margin: 0.83em 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003115}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003115}}
 h3 {
   font-size: 1.17em;
   margin: 1em 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003119}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003119}}
 h4 {
   font-size: 1em;
   margin: 1.33em 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003123}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003123}}
 h5 {
   font-size: 0.83em;
   margin: 1.67em 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003127}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003127}}
 h6 {
   font-size: 0.75em;
   margin: 2.33em 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003133}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003133}}
 abbr[title] {
   border-bottom: 1px dotted;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003138}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003138}}
 b, strong {
   font-weight: bold;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003141}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003141}}
 blockquote {
   margin: 1em 40px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003146}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003146}}
 dfn {
   font-style: italic;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003151}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003151}}
 mark {
   background: #ff0;
   color: #000;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003157}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003157}}
 p, pre {
   margin: 1em 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003162}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003162}}
 code, kbd, pre, samp {
   font-family: monospace, serif;
   _font-family: 'courier new', monospace;
   font-size: 1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003169}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003169}}
 pre {
   white-space: pre;
   white-space: pre-wrap;
   word-wrap: break-word;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003176}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003176}}
 q {
   quotes: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003181}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003181}}
 q:before, q:after {
   content: '';
   content: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003187}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003187}}
 small {
   font-size: 80%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003192}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003192}}
 sub, sup {
   font-size: 75%;
   line-height: 0;
@@ -160,66 +160,66 @@ sub, sup {
   vertical-align: baseline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003198}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003198}}
 sup {
   top: -0.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003199}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003199}}
 sub {
   bottom: -0.25em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003207}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003207}}
 dl, menu, ol, ul {
   margin: 1em 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003210}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003210}}
 dd {
   margin: 0 0 0 40px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003215}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003215}}
 menu, ol, ul {
   padding: 0 0 0 40px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003220}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003220}}
 nav ul, nav ol {
   list-style: none;
   list-style-image: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003232}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003232}}
 img {
   border: 0;
   -ms-interpolation-mode: bicubic;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003238}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003238}}
 svg:not(:root) {
   overflow: hidden;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003248}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003248}}
 figure {
   margin: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003258}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003258}}
 form {
   margin: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003263}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003263}}
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003272}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003272}}
 legend {
   border: 0;
   padding: 0;
@@ -227,7 +227,7 @@ legend {
   *margin-left: -7px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003283}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003283}}
 button, input, select, textarea {
   font-size: 100%;
   margin: 0;
@@ -235,12 +235,12 @@ button, input, select, textarea {
   *vertical-align: middle;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003292}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003292}}
 button, input {
   line-height: normal;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003306}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003306}}
 button,
 html input[type="button"],
 input[type="reset"],
@@ -250,13 +250,13 @@ input[type="submit"] {
   *overflow: visible;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003314}}
 button[disabled],
 input[disabled] {
   cursor: default;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003323}}
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
@@ -265,7 +265,7 @@ input[type="radio"] {
   *width: 13px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003333}}
 input[type="search"] {
   -webkit-appearance: textfield;
   -moz-box-sizing: content-box;
@@ -273,33 +273,33 @@ input[type="search"] {
   box-sizing: content-box;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003343}}
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003349}}
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
   padding: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003356}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003356}}
 textarea {
   overflow: auto;
   vertical-align: top;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_normalize\.scss}line{font-family:\00003367}}
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
 /* H5BP-Defaults */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000319}}
 html,
 button,
 input,
@@ -308,27 +308,27 @@ textarea {
   color: #222222;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000323}}
 body {
   font-size: 1em;
   line-height: 1.4;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000331}}
 ::-moz-selection {
   color: white;
   background: #b3d4fc;
   text-shadow: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000336}}
 ::selection {
   color: white;
   background: #b3d4fc;
   text-shadow: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000343}}
 hr {
   display: block;
   height: 1px;
@@ -338,25 +338,25 @@ hr {
   padding: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000353}}
 img {
   vertical-align: middle;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000358}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000358}}
 fieldset {
   border: 0;
   margin: 0;
   padding: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000365}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_default\.scss}line{font-family:\0000365}}
 textarea {
   resize: vertical;
 }
 
 /* H5BP-Chromeframe */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_chromeframe\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_chromeframe\.scss}line{font-family:\000036}}
 .chromeframe {
   margin: 0.2em 0;
   background: #ccc;
@@ -365,31 +365,8 @@ textarea {
 }
 
 /* Author's Styles */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_base\.scss}line{font-family:\0000344}}
-h1 {
-  font-family: Helvetica;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_base\.scss}line{font-family:\0000348}}
-span {
-  color: #555555;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_base\.scss}line{font-family:\0000352}}
-a {
-  color: #0000ee;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_base\.scss}line{font-family:\0000354}}
-a:hover {
-  color: #0066ee;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/_base\.scss}line{font-family:\0000355}}
-a:visited {
-  color: #551a8b;
-}
-
 /* H5BP-Helpers */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\000036}}
 .ir {
   font: 0/0 a;
   text-shadow: none;
@@ -397,13 +374,13 @@ a:visited {
   background-color: transparent;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\000037}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\000037}}
 .hidden {
   display: none !important;
   visibility: hidden;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\000038}}
 .visuallyhidden {
   border: 0;
   clip: rect(0 0 0 0);
@@ -414,7 +391,7 @@ a:visited {
   position: absolute;
   width: 1px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\0000342}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\0000342}}
 .visuallyhidden.focusable:active, .visuallyhidden.focusable:focus {
   clip: auto;
   height: auto;
@@ -424,28 +401,28 @@ a:visited {
   width: auto;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\000039}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\000039}}
 .invisible {
   visibility: hidden;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\0000367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\0000367}}
 .clearfix:before, .clearfix:after {
   content: "";
   display: table;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\0000370}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\0000370}}
 .clearfix:after {
   clear: both;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\0000372}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\0000372}}
 .clearfix {
   *zoom: 1;
 }
 
 /* H5BP-Media */
 @media print {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000312}}
   * {
     background: transparent !important;
     color: #000 !important;
@@ -454,47 +431,47 @@ a:visited {
     text-shadow: none !important;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000320}}
   a,
   a:visited {
     text-decoration: underline;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000324}}
   a[href]:after {
     content: " (" attr(href) ")";
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000328}}
   abbr[title]:after {
     content: " (" attr(title) ")";
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000335}}
   .ir a:after,
   a[href^="javascript:"]:after,
   a[href^="#"]:after {
     content: "";
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000339}}
   pre, blockquote {
     border: 1px solid #999;
     page-break-inside: avoid;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000344}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000344}}
   thead {
     display: table-header-group;
     /* h5bp.com/t */
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000348}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000348}}
   tr, img {
     page-break-inside: avoid;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000352}}
   img {
     max-width: 100% !important;
   }
@@ -503,13 +480,13 @@ a:visited {
     margin: 0.5cm;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000360}}
   p, h2, h3 {
     orphans: 3;
     widows: 3;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/_Orgs\/h5bp-codekit\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000365}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_media\.scss}line{font-family:\0000365}}
   h2, h3 {
     page-break-after: avoid;
   }
