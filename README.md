@@ -2,8 +2,8 @@
 H5BPCodeKit is a collection of frameworks and utilities that work in
 unison to form a simple starting point for building web sites+apps
 (without the command-line). You'll need CodeKit to get started with
-pre-compiling. Extras & Themes are included as well for Coda, Sublime,
-etc.
+pre-compiling. ~~Extras & Themes are included as well for Coda, and
+other commonly used code editors.~~ (Coming Soon)
 
 This repo will be kept in sync with each stable
 [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) release.
