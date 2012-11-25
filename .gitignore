@@ -1,6 +1,4 @@
-###################
 # OSX Generated Files
-###################
 .DS_Store
 .DS_Store?
 ._*
@@ -9,7 +7,5 @@
 ehthumbs.db
 Thumbs.db
 
-###########
-# SASS Files
-###########
+# SASS Cache
 .sass-cache
