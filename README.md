@@ -1,46 +1,50 @@
-# [H5BPCodeKit](http://H5BPCodeKit.com)
-H5BPCodeKit is is a collection of Frameworks & Utilities compacted 
-together to form the simplest starting point in building a modern 
-website with the least amount of groans possible.
+# H5BPCodeKit
+H5BPCodeKit is a collection of frameworks and utilities that work in
+unison to form a simple starting point for building web sites+apps
+(without the command-line). You'll need CodeKit to get started with
+pre-compiling. Extras & Themes are included as well for Coda, Sublime,
+etc.
 
-Right now, this is just a personal side project. If anybody has good
-ideas to make it better, or for potential additions and enhancements -
-start cloning, and have at it.
+This will be kept sync with each stable 
+[HTML5Boilerplate](https://github.com/h5bp/html5-boilerplate) build. 
+If you have ideas to enhance or make this better..  
+start cloning and have at it.
+
 * Sources:
-  * [CodeKit](http://incident57.com/codekit)
-  * [HTML5 Boilerplate](http://html5boilerplate.com)
-  * [Sporkd Compass-H5BP](https://github.com/sporkd/compass-h5bp)
-* Homepage: [H5BPCodeKit.com](http://H5BPCodeKit.com)
-* Twitter: [@JRodl3r](http://twitter.com/JRodl3r)
+  * [HTML5 Boilerplate](http://html5boilerplate.com) (v4.0.1)
+  * [CodeKit](http://incident57.com/codekit) (v1.3.5)
+  * SASS (v3.2.1)
+  * Compass (v0.12.2)
+  * JSLint
+  * CoffeeScript (v1.4.0)
 
 
 ## Getting Started
 
-**Options:**
-
-1. Download the latest release from [http://H5BPCodeKit.com](http://H5BPCodeKit.com).
-2. Clone the git repo - `git clone https://github.com/H5BPCodeKit/H5BPCodeKit.git` - 
-   and checkout.
+Clone the git repo - `git clone https://github.com/jrodl3r/h5bp-codekit` -
+and start hacking.
 
 
 ## Features
 
-COMING SOON
+STAY TUNED
 
 
-## Next
+## Next?
 
-COMING SOON
-
+STAY TUNED
 
 
 ## Docs
 
-COMING SOON
-
+STAY TUNED
 
 
 ## Contribute
 
-COMING SOON
+STAY TUNED
 
+
+## Contact
+
+[@JRodl3r](http://twitter.com/JRodl3r)
