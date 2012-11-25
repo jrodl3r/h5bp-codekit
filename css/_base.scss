@@ -8,7 +8,7 @@
 // ==========================================================================
 
 $page-width:             100%;
-$font-color:             #555;
+$font-color:             #777;
 $title-font-family:      Helvetica;
 $link-color:             #00e !default;
 $link-hover-color:       #06e !default;
@@ -20,12 +20,12 @@ $link-visited-color:     #551a8b !default;
 // ==========================================================================
 
 @mixin container {
-	// EXAMPLE Global Wrapper Setup
+	// EXAMPLE: Wrapper Mixin
 	// width: $container-width;
 }
 
 @mixin layout {
-	// EXAMPLE Global Layout Setup
+	// EXAMPLE: Layout Mixin
 	//  .wrapper { @include container; }
 	//   header,
 	//   footer { }
@@ -39,20 +39,20 @@ $link-visited-color:     #551a8b !default;
 
 // Get Some..
 
-// EXAMPLE Custom Styles
+// EXAMPLE: Layout Include
 // @include layout;
-//
-// h1 {
-//   font-family: $title-font-family;
-// }
-// span {
-//   color: $font-color;
-// }
-// a {
-//   color: $link-color;
-//   &:hover { color: $link-hover-color; }
-//   &:visited { color: $link-visited-color; }
-// }
+
+h1 {
+  font-family: $title-font-family;
+}
+span {
+  color: $font-color;
+}
+a {
+  color: $link-color;
+  &:hover { color: $link-hover-color; }
+  &:visited { color: $link-visited-color; }
+}
 
 
 // ==========================================================================

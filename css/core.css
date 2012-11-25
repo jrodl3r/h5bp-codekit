@@ -365,6 +365,29 @@ textarea {
 }
 
 /* Author's Styles */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_base\.scss}line{font-family:\0000345}}
+h1 {
+  font-family: Helvetica;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_base\.scss}line{font-family:\0000348}}
+span {
+  color: #777777;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_base\.scss}line{font-family:\0000351}}
+a {
+  color: #0000ee;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_base\.scss}line{font-family:\0000353}}
+a:hover {
+  color: #0066ee;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/_base\.scss}line{font-family:\0000354}}
+a:visited {
+  color: #551a8b;
+}
+
 /* H5BP-Helpers */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/DATA\/Dropbox\/Sites\/git\.jrod\.info\/h5bp-codekit\/css\/h5bp\/_helpers\.scss}line{font-family:\000036}}
 .ir {
