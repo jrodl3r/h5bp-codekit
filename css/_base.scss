@@ -20,8 +20,8 @@ $link-visited-color:     #551a8b !default;
 // ==========================================================================
 
 @mixin container {
-	// EXAMPLE: Wrapper Mixin
-	// width: $container-width;
+    // EXAMPLE: Wrapper Mixin
+    // width: $container-width;
 }
 
 @mixin layout {
@@ -34,24 +34,25 @@ $link-visited-color:     #551a8b !default;
 
 
 // ==========================================================================
-// Custom Styles (Place your CSS/SCSS below)
+// Custom Styles (Add your application CSS/SCSS below)
 // ==========================================================================
 
-// Get Some..
-
-// EXAMPLE: Layout Include
+// EXAMPLE: Layout-Mixin Include
 // @include layout;
 
 h1 {
-  font-family: $title-font-family;
+    font-family: $title-font-family;
 }
+
 span {
-  color: $font-color;
+    color: $font-color;
 }
+
 a {
-  color: $link-color;
-  &:hover { color: $link-hover-color; }
-  &:visited { color: $link-visited-color; }
+	color: $link-color;
+    
+    &:hover { color: $link-hover-color; }
+    &:visited { color: $link-visited-color; }
 }
 
 
@@ -65,8 +66,9 @@ a {
     // Style adjustments for viewports that meet the condition
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
-       only screen and (min-resolution: 144dpi) {
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
     // Style adjustments for high resolution devices
 }
-
