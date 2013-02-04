@@ -10,7 +10,7 @@ This repo will be kept in sync with each stable
 If you have ideas to enhance or make this better - start cloning and
 have at it. Feel free to ping me on Twitter @JRodl3r - Thx!
 
-* Sources:
+* **Sources:**
     * [HTML5 Boilerplate](http://html5boilerplate.com) (v4.1.0)
     * [CodeKit](http://incident57.com/codekit) (v1.5.1)
     * SASS (v3.2.5)
