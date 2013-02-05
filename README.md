@@ -8,7 +8,7 @@ for Coda, and other commonly used code editors.~~ (Coming Soon)
 This repo will be kept in sync with each stable
 [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) release.
 If you have ideas to enhance or make this better - start cloning and
-have at it. Feel free to ping me on Twitter @JRodl3r - Thx!
+have at it.
 
 * **Sources:**
     * [HTML5 Boilerplate](http://html5boilerplate.com) (v4.1.0)
