@@ -1,17 +1,18 @@
 {
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
-  "creatorBuild" : "8248",
+  "creatorBuild" : "8265",
   "files" : {
-    "\/js\/core-ck.js" : {
+    "\/css\/base.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/core-ck.js",
+      "inputAbbreviatedPath" : "\/css\/base.scss",
       "outputStyle" : 1,
-      "syntaxCheckerStyle" : 2,
-      "outputAbbreviatedPath" : "\/js\/core-ck-ck.js",
-      "fileType" : 64
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/base.css",
+      "fileType" : 4,
+      "debugStyle" : 1
     },
     "\/css\/h5bp\/_media.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -44,8 +45,8 @@
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/js\/vendor\/jquery-1.9.0.min.js",
       "outputStyle" : 1,
-      "syntaxCheckerStyle" : 2,
-      "outputAbbreviatedPath" : "\/js\/vendor\/jquery-1.9.0.min-ck.js",
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/vendor\/jquery-1.9.0.min.min.js",
       "fileType" : 64
     },
     "\/index.html" : {
@@ -57,29 +58,25 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/css\/h5bp\/_default.scss" : {
+    "\/css\/base.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/h5bp\/_default.scss",
-      "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_default.css",
-      "fileType" : 4,
-      "debugStyle" : 1
+      "inputAbbreviatedPath" : "\/css\/base.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
-    "\/css\/core.scss" : {
+    "\/js\/core.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/core.scss",
+      "outputPathIsSetByUser" : 1,
+      "inputAbbreviatedPath" : "\/js\/core.js",
       "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/core.css",
-      "fileType" : 4,
-      "debugStyle" : 1
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/core.min.js",
+      "fileType" : 64
     },
     "\/css\/_normalize.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -93,37 +90,17 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/css\/_base.scss" : {
+    "\/css\/h5bp\/_default.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_base.scss",
+      "inputAbbreviatedPath" : "\/css\/h5bp\/_default.scss",
       "outputStyle" : 1,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_base.css",
+      "outputAbbreviatedPath" : "\/css\/_default.css",
       "fileType" : 4,
       "debugStyle" : 1
-    },
-    "\/js\/core.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/core.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 2,
-      "outputAbbreviatedPath" : "\/js\/core-ck.js",
-      "fileType" : 64
-    },
-    "\/css\/core.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/core.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
     },
     "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
@@ -134,15 +111,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 32768
     },
-    "\/js\/plugins-ck.js" : {
-      "ignoreWasSetByUser" : 0,
+    "\/js\/vendor\/modernizr-2.6.2.min.js" : {
+      "ignoreWasSetByUser" : 1,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/plugins-ck.js",
+      "inputAbbreviatedPath" : "\/js\/vendor\/modernizr-2.6.2.min.js",
       "outputStyle" : 1,
-      "syntaxCheckerStyle" : 2,
-      "outputAbbreviatedPath" : "\/js\/plugins-ck-ck.js",
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/vendor\/modernizr-2.6.2.min.min.js",
       "fileType" : 64
     },
     "\/css\/_h5bp.scss" : {
@@ -157,6 +134,17 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
+    "\/js\/plugins.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/plugins.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/plugins.min.js",
+      "fileType" : 64
+    },
     "\/img\/splash.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -168,28 +156,6 @@
       "initialSize" : 24809,
       "fileType" : 8192
     },
-    "\/js\/vendor\/modernizr-2.6.2.min.js" : {
-      "ignoreWasSetByUser" : 1,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/vendor\/modernizr-2.6.2.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 2,
-      "outputAbbreviatedPath" : "\/js\/vendor\/modernizr-2.6.2.min-ck.js",
-      "fileType" : 64
-    },
-    "\/js\/plugins.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/plugins.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 2,
-      "outputAbbreviatedPath" : "\/js\/plugins-ck.js",
-      "fileType" : 64
-    },
     "\/css\/h5bp\/_chromeframe.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -199,6 +165,40 @@
       "outputStyle" : 1,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/css\/_chromeframe.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/js\/core.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/core.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/core.min.min.js",
+      "fileType" : 64
+    },
+    "\/js\/plugins.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/plugins.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/plugins.min.min.js",
+      "fileType" : 64
+    },
+    "\/css\/_core.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/_core.scss",
+      "outputStyle" : 1,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_core.css",
       "fileType" : 4,
       "debugStyle" : 1
     }
@@ -223,7 +223,7 @@
     "lessAutoOutputPathStyle" : 0,
     "genericWebpageFileExtensionsString" : "html, xhtml, htm, shtml, shtm, php, jsp, asp, aspx, erb, ctp",
     "coffeeMinifyOutput" : 1,
-    "javascriptOutputSuffix" : "-ck",
+    "javascriptOutputSuffix" : ".min",
     "jadeOutputStyle" : 0,
     "coffeeAutoOutputPathStyle" : 0,
     "autoSyncProjectSettingsFile" : 1,
@@ -247,7 +247,7 @@
     "stylusAutoOutputPathStyle" : 2,
     "coffeeCheckOutputStyle" : 0,
     "slimOutputStyle" : 0,
-    "javascriptSyntaxCheckerStyle" : 2,
+    "javascriptSyntaxCheckerStyle" : 0,
     "sassAutoOutputPathReplace1" : "sass",
     "slimAutoOutputPathReplace1" : "",
     "sassOutputStyle" : 1,

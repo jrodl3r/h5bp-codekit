@@ -3,39 +3,34 @@
 // ==========================================================================
 
 // H5BP Mixin Variables
-$line-height:                 1.4 !default;
-$font-color:                  #222 !default;
-$font-family:                 sans-serif !default;
-$font-size:                   1em !default;
-$selected-font-color:         #fff !default;
-$selected-background-color:   #69f !default;
+$BP-line-height:                 1.4 !default;
+$BP-font-color:                  #222 !default;
+$BP-font-size:                   1em !default;
+$BP-selected-font-color:         #fff !default;
+$BP-selected-background-color:   #69f !default;
 
 // H5BP Mixin Defaults
 @mixin h5bp-default {
-	html,
-	button,
-	input,
-	select,
-	textarea {
-		color: $font-color;
+	html, button, input, select, textarea {
+		color: $BP-font-color;
 	}
 	
 	body {
-		font-size: $font-size;
-		line-height: $line-height;
+		font-size: $BP-font-size;
+		line-height: $BP-line-height;
 	}
 	
 	// Remove text-shadow in selection highlight: h5bp.com/i
 	// These selection declarations have to be separate.
 	// Customize the background color to match your design.
 	::-moz-selection {
-		color: $selected-font-color;
-		background: $selected-background-color;
+		color: $BP-selected-font-color;
+		background: $BP-selected-background-color;
 		text-shadow: none;
 	}
 	::selection {
-		color: $selected-font-color;
-		background: $selected-background-color;
+		color: $BP-selected-font-color;
+		background: $BP-selected-background-color;
 		text-shadow: none;
 	}
 	

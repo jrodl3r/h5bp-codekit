@@ -1,0 +1,68 @@
+//
+// Author's Core Stylesheet
+//
+// ==========================================================================
+
+// ==========================================================================
+// Variables
+// ==========================================================================
+
+$page-width: 		100%;
+$title-font: 		Helvetica;
+$text-color: 		#777;
+$link-color: 		#00e !default;
+$hover-color: 		#06e !default;
+$visited-color: 	#551a8b !default;
+
+
+// ==========================================================================
+// Mixins
+// ==========================================================================
+
+@mixin container {
+	// EXAMPLE: Wrapper Mixin
+	// width: $container-width;
+}
+
+@mixin layout {
+	// EXAMPLE: Layout Mixin
+	//  .wrapper { @include container; }
+	//   header,
+	//   footer { }
+	//   aside { }
+}
+
+
+// ==========================================================================
+// Author's Styles: Add your application CSS/SCSS here.
+// ==========================================================================
+
+// EXAMPLE: Layout-Mixin Include
+// @include layout;
+
+h1 {
+    font-family: $title-font;
+}
+
+span {
+    color: $text-color;
+}
+
+a {
+	color: $link-color;
+
+	&:hover { color: $hover-color; }
+	&:visited { color: $visited-color; }
+}
+
+
+// ==========================================================================
+// Media Queries for Responsive Design
+// EXAMPLE: Modify as content requires.
+// Theses examples override the primary (above) styles.
+// ==========================================================================
+
+@media only screen and (min-width: 35em) {
+	// Style adjustments for viewports that meet the condition
+}
+

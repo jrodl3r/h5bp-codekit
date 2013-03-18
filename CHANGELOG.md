@@ -1,4 +1,20 @@
-## Changelog
+### HEAD
+* Prefixed Boilerplate SCSS Variables ('BP-var-name')
+* Restructured SCSS Build Assembly: `_base.scss` is
+  now `core.scss` (`base.scss` supersedes `core.scss`)
+
+* [!] Replaced H5BP Media Query Examples w/ Sass + Susy
+  Nested Media Query Samples
+* [!] Add Susy Compass Grid Support
+* Moved H5BP Helpers Partial Above Author's Partials
+  in `base.scss` (Use Sass @extend helper classes now!)
+* [!] Convert H5BP Helpers to Sass Placeholders (no
+   helper CSS definitions will output now unless @extend'd)
+
+* Renamed `core-ck.js` and `plugins-ck.js` to
+  `core.min.js` and `plugins.min.js`
+* Added SublimeText + CodeKit Project Files to `.gitignore`
+
 
 ### 1.0.0 (January 31, 2013)
 * Update HTML5Boilerplate to 4.1.0.
@@ -17,7 +33,7 @@
 * Updated README Details
 * Tweaked HTML Comments
   Updated Console-Stub Plugin Function (JSLint) 
-* Cleaned-up _base.scss
+* Cleaned-up `_base.scss`
 
 
 ### November 25, 2012

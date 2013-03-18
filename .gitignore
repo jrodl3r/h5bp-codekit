@@ -1,4 +1,4 @@
-# OSX Generated Files
+# OSX
 .DS_Store
 .DS_Store?
 ._*
@@ -7,5 +7,12 @@
 ehthumbs.db
 Thumbs.db
 
-# SASS Cache
+# SASS
 .sass-cache
+
+# SublimeText
+*.sublime-project
+*.sublime-workspace
+
+# CodeKit
+codekit-config.json
