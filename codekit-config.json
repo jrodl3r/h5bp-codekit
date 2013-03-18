@@ -2,17 +2,16 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8265",
   "files" : {
-    "\/css\/base.scss" : {
+    "\/js\/plugins.min.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/base.scss",
+      "inputAbbreviatedPath" : "\/js\/plugins.min.js",
       "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/base.css",
-      "fileType" : 4,
-      "debugStyle" : 1
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/plugins.min.min.js",
+      "fileType" : 64
     },
     "\/css\/h5bp\/_media.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -38,25 +37,17 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/js\/vendor\/jquery-1.9.0.min.js" : {
+    "\/css\/h5bp\/_default.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/vendor\/jquery-1.9.0.min.js",
+      "inputAbbreviatedPath" : "\/css\/h5bp\/_default.scss",
       "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/js\/vendor\/jquery-1.9.0.min.min.js",
-      "fileType" : 64
-    },
-    "\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_default.css",
+      "fileType" : 4,
+      "debugStyle" : 1
     },
     "\/css\/base.css" : {
       "ignoreWasSetByUser" : 0,
@@ -66,6 +57,15 @@
       "inputAbbreviatedPath" : "\/css\/base.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/js\/core.js" : {
       "ignoreWasSetByUser" : 0,
@@ -90,17 +90,16 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/css\/h5bp\/_default.scss" : {
+    "\/js\/vendor\/jquery-1.9.0.min.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/h5bp\/_default.scss",
+      "inputAbbreviatedPath" : "\/js\/vendor\/jquery-1.9.0.min.js",
       "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_default.css",
-      "fileType" : 4,
-      "debugStyle" : 1
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/vendor\/jquery-1.9.0.min.min.js",
+      "fileType" : 64
     },
     "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
@@ -179,17 +178,6 @@
       "outputAbbreviatedPath" : "\/js\/core.min.min.js",
       "fileType" : 64
     },
-    "\/js\/plugins.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/plugins.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/js\/plugins.min.min.js",
-      "fileType" : 64
-    },
     "\/css\/_core.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -199,6 +187,18 @@
       "outputStyle" : 1,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/css\/_core.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/css\/base.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/base.scss",
+      "outputStyle" : 1,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/base.css",
       "fileType" : 4,
       "debugStyle" : 1
     }
