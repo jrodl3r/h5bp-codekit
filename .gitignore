@@ -15,3 +15,7 @@ css/base.css
 *.sublime-project
 *.sublime-workspace
 
+# CodeKit
+js/core.min.js
+js/plugins.min.js
+

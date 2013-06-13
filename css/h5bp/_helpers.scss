@@ -13,10 +13,10 @@
 // Image replacement
 @mixin img-replace {
 	background-color: transparent;
-    border: 0;
-    overflow: hidden;
-    /* IE 6/7 fallback */
-    *text-indent: -9999px;
+	border: 0;
+	overflow: hidden;
+	/* IE 6/7 fallback */
+	*text-indent: -9999px;
 	
 	&:before {
 		content: "";

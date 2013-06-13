@@ -7,19 +7,19 @@
 // Variables (w/ Example Sass Variables)
 // ==========================================================================
 
-$page-font 			: 	Helvetica;
-$text-color 		: 	#222;
-$hilite-color 		:   #999;
+$page-font			:	Helvetica;
+$text-color			:	#222;
+$hilite-color		:	#999;
 
-$color-phone 		: 	#69F;
-$color-phone-wide 	: 	#3C3;
-$color-tablet 		: 	#90F;
-$color-desktop 		: 	#F00;
+$color-phone		:	#69F;
+$color-phone-wide	:	#3C3;
+$color-tablet		:	#90F;
+$color-desktop		:	#F00;
 
-$mq-phone 			: 	320px;
-$mq-phone-wide 		: 	500px;
-$mq-tablet 			: 	600px;
-$mq-desktop 		: 	992px;
+$mq-phone			:	320px;
+$mq-phone-wide		:	500px;
+$mq-tablet			:	600px;
+$mq-desktop			:	992px;
 
 
 // ==========================================================================
@@ -33,13 +33,13 @@ body {
 
 h1 {
 
-    a {
+	a {
 		color: $text-color;
 		text-decoration: none;
 
 		span {
-		    color: $hilite-color;
-		    @include transition(all .3s ease-in-out);
+			color: $hilite-color;
+			@include transition(all .3s ease-in-out);
 
 			@include at-least($mq-phone) {
 				color: $color-phone;
@@ -57,5 +57,5 @@ h1 {
 				color: $color-desktop;
 			}
 		}
-    }
+	}
 }
