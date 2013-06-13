@@ -1,7 +1,15 @@
-// Avoid `console` errors in browsers that lack a console.
+//
+// Author's Custom Addons/Plugins (Add your jQuery-Plugins here)
+//
+// ==========================================================================
+
+// ==========================================================================
+// Avoid `console` errors in browsers that lack a console. (H5BP)
+// ==========================================================================
+
 (function() {
     var method,
-        noop = function () {},
+        noop = function() {},
         methods = [
         'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
         'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
@@ -19,5 +27,3 @@
         }
     }
 }());
-
-// Add jQuery/Utility Plugins here.

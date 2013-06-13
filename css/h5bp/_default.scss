@@ -1,13 +1,13 @@
 // ==========================================================================
-// Base styles: opinionated defaults (Override to your hearts content)
+// H5BP Default Styles: Opinionated Defaults (Override to your hearts content)
 // ==========================================================================
 
 // H5BP Mixin Variables
-$BP-line-height:                 1.4 !default;
-$BP-font-color:                  #222 !default;
-$BP-font-size:                   1em !default;
-$BP-selected-font-color:         #fff !default;
-$BP-selected-background-color:   #69f !default;
+$BP-line-height 				: 	1.4 !default;
+$BP-font-color 					: 	#222 !default;
+$BP-font-size 					: 	1em !default;
+$BP-selected-font-color 		: 	#fff !default;
+$BP-selected-background-color 	: 	#69f !default;
 
 // H5BP Mixin Defaults
 @mixin h5bp-default {

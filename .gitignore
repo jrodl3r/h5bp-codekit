@@ -9,6 +9,7 @@ Thumbs.db
 
 # SASS
 .sass-cache
+css/base.css
 
 # SublimeText
 *.sublime-project

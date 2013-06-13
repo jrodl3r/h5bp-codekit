@@ -1,68 +1,62 @@
 //
-// Author's Core Stylesheet
+// Author's Core Stylesheet (Add your application Sass-CSS here)
 //
 // ==========================================================================
 
 // ==========================================================================
-// Variables
+// Variables (w/ Example Sass Variables)
 // ==========================================================================
 
-$page-width: 		100%;
-$title-font: 		Helvetica;
-$text-color: 		#777;
-$link-color: 		#00e !default;
-$hover-color: 		#06e !default;
-$visited-color: 	#551a8b !default;
+$page-width 		: 	100%;
+$page-font 			: 	Helvetica;
+$text-color 		: 	#222;
+$hilite-color 		:   #999;
+
+$color-phone 		: 	#69F;
+$color-phone-wide 	: 	#3C3;
+$color-tablet 		: 	#90F;
+$color-desktop 		: 	#F00;
+
+$mq-phone 			: 	320px;
+$mq-phone-wide 		: 	500px;
+$mq-tablet 			: 	600px;
+$mq-desktop 		: 	992px;
 
 
 // ==========================================================================
-// Mixins
+// Styles (w/ Example Sass Definitions + Media Queries)
 // ==========================================================================
 
-@mixin container {
-	// EXAMPLE: Wrapper Mixin
-	// width: $container-width;
+body {
+	color: $text-color;
+	font-family: $page-font;
 }
-
-@mixin layout {
-	// EXAMPLE: Layout Mixin
-	//  .wrapper { @include container; }
-	//   header,
-	//   footer { }
-	//   aside { }
-}
-
-
-// ==========================================================================
-// Author's Styles: Add your application CSS/SCSS here.
-// ==========================================================================
-
-// EXAMPLE: Layout-Mixin Include
-// @include layout;
 
 h1 {
-    font-family: $title-font;
+
+    a {
+		color: $text-color;
+		text-decoration: none;
+
+		span {
+		    color: $hilite-color;
+		    @include transition(all .3s ease-in-out);
+
+			@include at-least($mq-phone) {
+				color: $color-phone;
+			}
+
+			@include at-least($mq-phone-wide) {
+				color: $color-phone-wide;
+			}
+
+			@include at-least($mq-tablet) {
+				color: $color-tablet;
+			}
+
+			@include at-least($mq-desktop) {
+				color: $color-desktop;
+			}
+		}
+    }
 }
-
-span {
-    color: $text-color;
-}
-
-a {
-	color: $link-color;
-
-	&:hover { color: $hover-color; }
-	&:visited { color: $visited-color; }
-}
-
-
-// ==========================================================================
-// Media Queries for Responsive Design
-// EXAMPLE: Modify as content requires.
-// Theses examples override the primary (above) styles.
-// ==========================================================================
-
-@media only screen and (min-width: 35em) {
-	// Style adjustments for viewports that meet the condition
-}
-

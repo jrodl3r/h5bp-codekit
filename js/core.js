@@ -1,1 +1,4 @@
-// Add application JS/Core here.
+//
+// Author's Core Application/JS Logic (Add your jQuery/JavaScript here)
+//
+// ==========================================================================

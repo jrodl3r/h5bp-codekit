@@ -1,25 +1,33 @@
-### HEAD
+### 1.0.1 (May 22, 2013)
+* Upgraded H5BP to 4.2.0
+* Upgraded jQuery to 1.10.1
+* Upgraded Normalize.css to 1.1.2
+* Added Setup Steps + Library Sources to README
 * Prefixed Boilerplate SCSS Variables ('BP-var-name')
+* Improved syntax, formatting and spacing across all files
+* Simplified Core Style + Mixin usage examples
 * Restructured SCSS Build Assembly: `_base.scss` is
   now `core.scss` (`base.scss` supersedes `core.scss`)
-
-* [!] Replaced H5BP Media Query Examples w/ Sass + Susy
-  Nested Media Query Samples
-* [!] Add Susy Compass Grid Support
+* Moved Author's Custom Mixins to `_mixins.scss` (included 
+  some useful Mixin examples)
+* Added Susy Grid Support for Sass/Compass (disabled by default)
+* Replaced H5BP Media Query Examples w/ SCSS Mixin Media
+  Query Logic from @iMathis (Brandon Mathis)
 * Moved H5BP Helpers Partial Above Author's Partials
-  in `base.scss` (Use Sass @extend helper classes now!)
-* [!] Convert H5BP Helpers to Sass Placeholders (no
-   helper CSS definitions will output now unless @extend'd)
-
-* Renamed `core-ck.js` and `plugins-ck.js` to
-  `core.min.js` and `plugins.min.js`
-* Added SublimeText + CodeKit Project Files to `.gitignore`
+  in `base.scss` (Can now use Sass's @extend helpers classes)
+* Enabled CodeKit JavaScript Minification + 
+  Renamed `core-ck.js` and `plugins-ck.js` 
+  to `core.min.js` and `plugins.min.js`
+* Added Compliled CSS `css\base.css` + Sublime Text, CodeKit
+  Project Files to `.gitignore`
+* Updated Favicon.ico to HiDPI 32x32 icon image
+* Removed Google Analytics protocol check
 
 
 ### 1.0.0 (January 31, 2013)
-* Update HTML5Boilerplate to 4.1.0.
-* Update to Normalize.css 1.1.0.
-* Update to jQuery 1.9.0.
+* Update HTML5Boilerplate to 4.1.0
+* Update to Normalize.css 1.1.0
+* Update to jQuery 1.9.0
 * Updated Image-Replacement CSS (Removed Alternate)
 * Removed superfluous JS content
 * Replaced Compass Image w/ H5BPCK Splash Logo
@@ -55,3 +63,4 @@
 * Converted Normalize to SASS
 * Setup Initial CodeKit Config for JSLint, SASS, 
   Compass + Uglify Support
+

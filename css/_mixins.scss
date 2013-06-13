@@ -1,0 +1,49 @@
+// 
+// Author's Mixin Library (Add your Sass-Mixins here)
+//
+// ==========================================================================
+
+// ==========================================================================
+// Setup Image-Replacement Element
+// ==========================================================================
+// @param	$pos		position	[float|absolute|relative]
+// @param	$dir		direction	[left|right|none]
+// @param	$height		optional
+// @param	$width		optional
+// --------------------------------------------------------------------------
+
+@mixin ir-block($pos, $dir, $height: 0, $width: 0) {
+	@extend .ir;
+	@if $pos == float { float: $dir; }
+	@else { position: $pos; }
+	@if $height != 0 { height: $height; }
+	@if $width != 0 { width: $width; }
+}
+
+
+// ==========================================================================
+// Reset Un/Ordered List Menu
+// ==========================================================================
+
+@mixin reset-list() {
+	margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+// ==========================================================================
+// Media Query Device Targeting (from Brandon Mathis)
+// ==========================================================================
+
+@mixin at-least($device-width) {
+	@media screen and (min-width: $device-width) {
+		@content 
+	}
+}
+
+@mixin until($device-width) {
+	@media screen and (max-width: $device-width - 1) {
+		@content 
+	}
+}
