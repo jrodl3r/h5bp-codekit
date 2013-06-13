@@ -15,5 +15,3 @@ css/base.css
 *.sublime-project
 *.sublime-workspace
 
-# CodeKit
-codekit-config.json
