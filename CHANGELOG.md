@@ -1,3 +1,7 @@
+### HEAD
+* Swapped tabs for spaces on h5bp var defs
+* ...
+
 ### 1.0.1 (May 22, 2013)
 * Upgraded H5BP to 4.2.0
 * Upgraded jQuery to 1.10.1
