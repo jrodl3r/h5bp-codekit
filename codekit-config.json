@@ -1,7 +1,18 @@
 {
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
-  "creatorBuild" : "8300",
+  "creatorBuild" : "8317",
   "files" : {
+    "\/js\/vendor\/jquery-1.10.2.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/vendor\/jquery-1.10.2.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/vendor\/jquery-1.10.2.min.min.js",
+      "fileType" : 64
+    },
     "\/css\/h5bp\/_default.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -49,18 +60,6 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/css\/h5bp\/_media.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/h5bp\/_media.scss",
-      "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_media.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
     "\/css\/_susy.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -73,27 +72,15 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/css\/h5bp\/_helpers.scss" : {
+    "\/css\/h5bp\/_media.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/h5bp\/_helpers.scss",
+      "inputAbbreviatedPath" : "\/css\/h5bp\/_media.scss",
       "outputStyle" : 1,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_helpers.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/css\/susy\/_grid.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/susy\/_grid.scss",
-      "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_grid.css",
+      "outputAbbreviatedPath" : "\/css\/_media.css",
       "fileType" : 4,
       "debugStyle" : 1
     },
@@ -109,27 +96,15 @@
       "fileType" : 4,
       "debugStyle" : 1
     },
-    "\/css\/h5bp\/_chromeframe.scss" : {
+    "\/css\/susy\/_grid.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/h5bp\/_chromeframe.scss",
+      "inputAbbreviatedPath" : "\/css\/susy\/_grid.scss",
       "outputStyle" : 1,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_chromeframe.css",
-      "fileType" : 4,
-      "debugStyle" : 1
-    },
-    "\/css\/_h5bp.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_h5bp.scss",
-      "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_h5bp.css",
+      "outputAbbreviatedPath" : "\/css\/_grid.css",
       "fileType" : 4,
       "debugStyle" : 1
     },
@@ -142,6 +117,30 @@
       "outputStyle" : 1,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/css\/base.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/css\/h5bp\/_helpers.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/h5bp\/_helpers.scss",
+      "outputStyle" : 1,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_helpers.css",
+      "fileType" : 4,
+      "debugStyle" : 1
+    },
+    "\/css\/_h5bp.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/_h5bp.scss",
+      "outputStyle" : 1,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_h5bp.css",
       "fileType" : 4,
       "debugStyle" : 1
     },
@@ -209,17 +208,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 32768
     },
-    "\/css\/_core.scss" : {
+    "\/img\/logo.png" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_core.scss",
-      "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_core.css",
-      "fileType" : 4,
-      "debugStyle" : 1
+      "inputAbbreviatedPath" : "\/img\/logo.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/logo.png",
+      "initialSize" : 24809,
+      "fileType" : 8192
     },
     "\/js\/vendor\/modernizr-2.6.2.min.js" : {
       "ignoreWasSetByUser" : 1,
@@ -232,16 +230,17 @@
       "outputAbbreviatedPath" : "\/js\/vendor\/modernizr-2.6.2.min.min.js",
       "fileType" : 64
     },
-    "\/img\/logo.png" : {
+    "\/css\/_core.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/logo.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/img\/logo.png",
-      "initialSize" : 24809,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/css\/_core.scss",
+      "outputStyle" : 1,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_core.css",
+      "fileType" : 4,
+      "debugStyle" : 1
     },
     "\/css\/susy\/_margin.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -331,7 +330,10 @@
     "sassAutoOutputPathStyle" : 0,
     "stylusAutoOutputPathReplace2" : "css",
     "lessAutoOutputPathStyle" : 0,
+    "lessIECompatibility" : 1,
     "genericWebpageFileExtensionsString" : "html, xhtml, htm, shtml, shtm, php, jsp, asp, aspx, erb, ctp",
+    "lessStrictUnits" : 0,
+    "lessStrictMath" : 0,
     "coffeeMinifyOutput" : 1,
     "javascriptOutputSuffix" : ".min",
     "jadeOutputStyle" : 0,
@@ -480,6 +482,7 @@
     "jadeCompileDebug" : 1,
     "slimRailsCompatible" : 0,
     "kitAutoOutputPathReplace2" : "",
+    "lessRelativeURLS" : 0,
     "lessDebugStyle" : 0,
     "javascriptAutoOutputPathRelativePath" : "",
     "slimAutoOutputPathStyle" : 0
