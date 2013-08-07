@@ -47,12 +47,3 @@ chance to dynamically create those assets for us.
 Clone the git repo - `git clone https://github.com/jrodl3r/h5bp-codekit` -
 create a new branch, and issue a pull-request to submit your idea, or
 suggest enhancements and changes.
-
-
-## Up Next
-
-* **Feature:** [SublimeText 2](http://sublimetext.com) Setup + Integration
-* **How-To:** Configure Sass/Compass Build Settings
-* **How-To:** Customize CodeKit Compile + JSLint/Hint Settings
-* **How-To:** Setup Susy Grid System
-* **How-To:** Speed-Up Development w/ [Live Preview](http://livereload.com)
