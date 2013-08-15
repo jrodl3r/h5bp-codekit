@@ -1,7 +1,7 @@
 ### 1.0.2 (August 8, 2013)
 * Upgraded jQuery to 1.10.2
 * Added Latest H5BP Dev Updates (http://goo.gl/X6uu6z)
-* Swapped tabs for spaces on h5bp var defs
+* Swapped tabs for 2-char spaces on all files
 * Pulled Support for Chrome Frame + Replaced w/ Browserhappy
 
 

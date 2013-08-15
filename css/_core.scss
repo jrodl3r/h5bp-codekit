@@ -27,35 +27,35 @@ $mq-desktop         :   992px;
 // ==========================================================================
 
 body {
-	color: $text-color;
-	font-family: $page-font;
+  color: $text-color;
+  font-family: $page-font;
 }
 
 h1 {
 
-	a {
-		color: $text-color;
-		text-decoration: none;
+  a {
+    color: $text-color;
+    text-decoration: none;
 
-		span {
-			color: $hilite-color;
-			@include transition(all .3s ease-in-out);
+    span {
+      color: $hilite-color;
+      @include transition(all .3s ease-in-out);
 
-			@include at-least($mq-phone) {
-				color: $color-phone;
-			}
+      @include at-least($mq-phone) {
+        color: $color-phone;
+      }
 
-			@include at-least($mq-phone-wide) {
-				color: $color-phone-wide;
-			}
+      @include at-least($mq-phone-wide) {
+        color: $color-phone-wide;
+      }
 
-			@include at-least($mq-tablet) {
-				color: $color-tablet;
-			}
+      @include at-least($mq-tablet) {
+        color: $color-tablet;
+      }
 
-			@include at-least($mq-desktop) {
-				color: $color-desktop;
-			}
-		}
-	}
+      @include at-least($mq-desktop) {
+        color: $color-desktop;
+      }
+    }
+  }
 }
