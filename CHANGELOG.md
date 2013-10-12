@@ -1,12 +1,11 @@
-### 1.0.2 (August 8, 2013)
+### 1.0.2 / 4.3.0 (August 8, 2013)
 * Upgraded jQuery to 1.10.2
-* Added Latest H5BP Dev Updates (http://goo.gl/X6uu6z)
+* Update normalize.css to v1.1.3
 * Swapped tabs for 2-char spaces on all files
 * Pulled Support for Chrome Frame + Replaced w/ Browserhappy
 
 
-### 1.0.1 (May 22, 2013)
-* Upgraded H5BP to 4.2.0
+### 1.0.1 / 4.2.0 (May 22, 2013)
 * Upgraded jQuery to 1.10.1
 * Upgraded Normalize.css to 1.1.2
 * Added Setup Steps + Library Sources to README
@@ -15,15 +14,15 @@
 * Simplified Core Style + Mixin usage examples
 * Restructured SCSS Build Assembly: `_base.scss` is
   now `core.scss` (`base.scss` supersedes `core.scss`)
-* Moved Author's Custom Mixins to `_mixins.scss` (included 
+* Moved Author's Custom Mixins to `_mixins.scss` (included
   some useful Mixin examples)
 * Added Susy Grid Support for Sass/Compass (disabled by default)
 * Replaced H5BP Media Query Examples w/ SCSS Mixin Media
   Query Logic from @iMathis (Brandon Mathis)
 * Moved H5BP Helpers Partial Above Author's Partials
   in `base.scss` (Can now use Sass's @extend helpers classes)
-* Enabled CodeKit JavaScript Minification + 
-  Renamed `core-ck.js` and `plugins-ck.js` 
+* Enabled CodeKit JavaScript Minification +
+  Renamed `core-ck.js` and `plugins-ck.js`
   to `core.min.js` and `plugins.min.js`
 * Added Compliled CSS `css\base.css` + Sublime Text, CodeKit
   Project Files to `.gitignore`
@@ -31,8 +30,7 @@
 * Removed Google Analytics protocol check
 
 
-### 1.0.0 (January 31, 2013)
-* Update HTML5Boilerplate to 4.1.0
+### 1.0.0 / 4.1.0 (January 31, 2013)
 * Update to Normalize.css 1.1.0
 * Update to jQuery 1.9.0
 * Updated Image-Replacement CSS (Removed Alternate)
@@ -47,14 +45,14 @@
 * Changed Tab-Spacing back to default of 4 (was 2)
 * Updated README Details
 * Tweaked HTML Comments
-  Updated Console-Stub Plugin Function (JSLint) 
+  Updated Console-Stub Plugin Function (JSLint)
 * Cleaned-up `_base.scss`
 
 
 ### November 25, 2012
-* Removed Stock H5BPCodeKit HTML Attributes 
+* Removed Stock H5BPCodeKit HTML Attributes
 * Rearranged Meta + Title Attribute Markup
-* Removed '/Config' 
+* Removed '/Config'
 * Added CodeKit Config-File + Favicon to Root
   Directory
 * Updated Starter HTML Content
@@ -68,6 +66,6 @@
 * Added SASS Variables for H5BP + Normalize
 * Converted H5BP to SASS (Ref: Sporkd Compass-H5BP)
 * Converted Normalize to SASS
-* Setup Initial CodeKit Config for JSLint, SASS, 
+* Setup Initial CodeKit Config for JSLint, SASS,
   Compass + Uglify Support
 

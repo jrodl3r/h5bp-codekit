@@ -2,11 +2,11 @@
 // Base Stylesheet Assembler
 //
 // ==========================================================================
-// Featuring: HTML5 Boilerplate w/ Normalize, Sass, Compass + Susy.  
+// Featuring: HTML5 Boilerplate w/ Normalize, Sass, Compass + Susy.
 //
 // This is where all CSS Libraries are imported and assembled into the base
 // stylesheet. Please place your custom project variables, styles and mixins
-// inside '_core.scss' and '_mixins.scss'. For additional support with the 
+// inside '_core.scss' and '_mixins.scss'. For additional support with the
 // environment and application configuration - please refer to the README.
 //
 // ==========================================================================
@@ -18,7 +18,7 @@
 @import 'compass/layout';
 @import 'compass/utilities';
 @import 'compass/css3';
-// @import 'susy'; // Susy Grid Support (remove comment to enable)
+// @import 'susy'; // Susy Grid Support: Remove comment to enable
 @import 'normalize';
 @import 'h5bp';
 
