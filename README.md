@@ -10,9 +10,9 @@ JavaScript minification, and more.
   * **[Sass](http://sass-lang.com)** - v3.3.9
   * **[Compass](http://compass-style.org)** - v0.12.2
   * **[Susy](http://susy.oddbird.net)** - v1.0.6
-  * **[Normalize](http://necolas.github.io/normalize.css)** - v1.1.3
-  * **[Modernizr](http://modernizr.com)** - v2.6.2
-  * **[jQuery](http://jquery.com)** - v1.10.2
+  * **[Normalize](http://necolas.github.io/normalize.css)** - v3.0.1
+  * **[Modernizr](http://modernizr.com)** - v2.8.0
+  * **[jQuery](http://jquery.com)** - v1.11.1
   * **[JSLint](http://jslint.com)** / **[JSHint](http://www.jshint.com)**
 
 
