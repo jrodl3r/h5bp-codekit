@@ -6,7 +6,7 @@ unison to form a simple starting point for building Apps & Websites
 JavaScript minification, and more.
 
 ## Features
-  * **[HTML5 Boilerplate](http://html5boilerplate.com)** - v4.2.0
+  * **[HTML5 Boilerplate](http://html5boilerplate.com)** - v4.3.0
   * **[Sass](http://sass-lang.com)** - v3.2.6
   * **[Compass](http://compass-style.org)** - v0.12.2
   * **[Susy](http://susy.oddbird.net)** - v1.0.6
