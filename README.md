@@ -7,10 +7,10 @@ JavaScript minification, and more.
 
 ## Features
   * **[HTML5 Boilerplate](http://html5boilerplate.com)** - v4.3.0
-  * **[Sass](http://sass-lang.com)** - v3.2.6
+  * **[Sass](http://sass-lang.com)** - v3.3.9
   * **[Compass](http://compass-style.org)** - v0.12.2
   * **[Susy](http://susy.oddbird.net)** - v1.0.6
-  * **[Normalize](http://necolas.github.io/normalize.css)** - v1.1.2
+  * **[Normalize](http://necolas.github.io/normalize.css)** - v1.1.3
   * **[Modernizr](http://modernizr.com)** - v2.6.2
   * **[jQuery](http://jquery.com)** - v1.10.2
   * **[JSLint](http://jslint.com)** / **[JSHint](http://www.jshint.com)**
