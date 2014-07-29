@@ -3,58 +3,52 @@
 //
 // ==========================================================================
 
-// ==========================================================================
-// Variables (w/ Example Sass Variables)
-// ==========================================================================
+// Example Variables
 
-$page-font          :   Helvetica;
-$text-color         :   #222;
-$hilite-color       :   #999;
-  
-$color-phone        :   #69F;
-$color-phone-wide   :   #3C3;
-$color-tablet       :   #90F;
-$color-desktop      :   #F00;
-  
-$mq-phone           :   320px;
-$mq-phone-wide      :   500px;
-$mq-tablet          :   600px;
-$mq-desktop         :   992px;
+$page-font             :   Helvetica;
+$text-color            :   #222;
+$active-color          :   #999;
+
+$mq-phone              :   320px;
+$mq-phone-wide         :   500px;
+$mq-tablet             :   600px;
+$mq-desktop            :   992px;
+
+$mq-color-phone        :   #69F;
+$mq-color-phone-wide   :   #3C3;
+$mq-color-tablet       :   #90F;
+$mq-color-desktop      :   #F00;
 
 
-// ==========================================================================
-// Styles (w/ Example Sass Definitions + Media Queries)
-// ==========================================================================
-
+// Example Styles (w/ Sass Media Queries)
 body {
-  color: $text-color;
   font-family: $page-font;
+  color: $text-color;
 }
 
 h1 {
-
   a {
     color: $text-color;
     text-decoration: none;
 
     span {
-      color: $hilite-color;
+      color: $active-color;
       @include transition(all .3s ease-in-out);
 
       @include at-least($mq-phone) {
-        color: $color-phone;
+        color: $mq-color-phone;
       }
 
       @include at-least($mq-phone-wide) {
-        color: $color-phone-wide;
+        color: $mq-color-phone-wide;
       }
 
       @include at-least($mq-tablet) {
-        color: $color-tablet;
+        color: $mq-color-tablet;
       }
 
       @include at-least($mq-desktop) {
-        color: $color-desktop;
+        color: $mq-color-desktop;
       }
     }
   }
