@@ -1,4 +1,5 @@
-# H5BPCodeKit
+![](https://raw.githubusercontent.com/jrodl3r/h5bp-codekit/master/img/logo.png)
+
 H5BPCodeKit is a collection of tools and libraries that work in
 unison to form a simple starting point for building Apps & Websites
 (without the Command Line). H5BPCodeKit uses
