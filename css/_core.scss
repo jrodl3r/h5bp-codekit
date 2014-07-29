@@ -21,6 +21,7 @@ $mq-color-desktop      :   #F00;
 
 
 // Example Styles (w/ Sass Media Queries)
+
 body {
   font-family: $page-font;
   color: $text-color;
@@ -28,8 +29,8 @@ body {
 
 h1 {
   a {
-    color: $text-color;
     text-decoration: none;
+    color: $text-color;
 
     span {
       color: $active-color;
