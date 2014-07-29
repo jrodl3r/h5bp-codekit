@@ -33,7 +33,7 @@ by clicking the 'Clone in Mac' button (above).
     "Process" option.
   - Right-Click the "plugins.js" item in the file viewer and select the
     "Process" option.
-4. **Start Coding =]**
+4. **Start Coding 😎**
 
 
 ## More Info
