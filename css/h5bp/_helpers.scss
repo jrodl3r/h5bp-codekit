@@ -1,7 +1,7 @@
 // ==========================================================================
 // H5BP Helper Mixins
 // ==========================================================================
-   
+
 @mixin h5bp-helpers {
   .ir { @include img-replace; }
   .hidden { @include hidden; }
@@ -17,7 +17,7 @@
   overflow: hidden;
   /* IE 6/7 fallback */
   *text-indent: -9999px;
-  
+
   &:before {
     content: "";
     display: block;
@@ -42,10 +42,10 @@
   padding: 0;
   position: absolute;
   width: 1px;
-  
+
   // Extends the .visuallyhidden class to allow the element to be focusable
   // when navigated to via the keyboard: h5bp.com/p
-  &.focusable:active, 
+  &.focusable:active,
   &.focusable:focus {
     clip: auto;
     height: auto;
@@ -71,10 +71,18 @@
 // 2. The use of `table` rather than `block` is only necessary if using
 //    `:before` to contain the top-margins of child elements.
 @mixin micro-clearfix {
-  &:before, &:after { 
-    content: ""; // 1 
+  &:before, &:after {
+    content: ""; // 1
     display: table; } // 2
   &:after { clear: both; }
   // IE 6/7: Include this rule to trigger hasLayout and contain floats.
   & { *zoom: 1; }
+}
+
+// Browse Happy prompt
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
 }
