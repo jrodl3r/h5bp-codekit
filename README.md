@@ -43,15 +43,15 @@ there will be JavaScript and CSS loading errors upon inspection. If you're
 seeing resource loading errors - this is because CodeKit has not yet had the
 chance to dynamically create those assets for us.
 
-####Media Queries
-Media Queries from the latest HTML5 Boilerplate build have been substituted
-with Brandon Mathis's Sass Media Queries (http://codepen.io/imathis/pen/BDzcI).
-
 ####Custom Mixins
 Included in `_mixins.scss` you'll notice a few fairly common Sass Mixins that
 can be used for performing some basic CSS operations. For example, _([recently
 removed from HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate/commit/f1a8e914be01a56b7ada4aaf1113ed9b6dc68559))_
 setting up an image-replacement block, or resetting an ordered/unordered list.
+
+####Media Queries
+Media Queries from the latest HTML5 Boilerplate build have been substituted
+with Brandon Mathis's Sass Media Queries (http://codepen.io/imathis/pen/BDzcI).
 
 
 ## Contributing
