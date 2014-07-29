@@ -1,21 +1,17 @@
 // ==========================================================================
-// H5BP Default Styles: Opinionated Defaults (Override to your hearts content)
+// H5BP Default Styles: "Opinionated Defaults"
 // ==========================================================================
 
-// H5BP Mixin Variables
+// H5BP Variables
 $BP-line-height                 :   1.4 !default;
 $BP-font-color                  :   #222 !default;
 $BP-font-size                   :   1em !default;
-$BP-selected-font-color         :   #ccc !default;
-$BP-selected-background-color   :   #99c !default;
+$BP-selected-background-color   :   #b3d4fc !default;
 
-// H5BP Mixin Defaults
+// H5BP Defaults
 @mixin h5bp-default {
-  html, button, input, select, textarea {
+  html {
     color: $BP-font-color;
-  }
-
-  body {
     font-size: $BP-font-size;
     line-height: $BP-line-height;
   }
@@ -24,12 +20,10 @@ $BP-selected-background-color   :   #99c !default;
   // These selection declarations have to be separate.
   // Customize the background color to match your design.
   ::-moz-selection {
-    color: $BP-selected-font-color;
     background: $BP-selected-background-color;
     text-shadow: none;
   }
   ::selection {
-    color: $BP-selected-font-color;
     background: $BP-selected-background-color;
     text-shadow: none;
   }
@@ -49,6 +43,7 @@ $BP-selected-background-color   :   #99c !default;
   audio,
   canvas,
   img,
+  svg,
   video {
     vertical-align: middle;
   }
@@ -63,13 +58,13 @@ $BP-selected-background-color   :   #99c !default;
   // Allow only vertical resizing of textareas.
   textarea {
     resize: vertical;
+  }
 }
 
 // Browse Happy prompt
 .browsehappy {
-    margin: 0.2em 0;
-    background: #ccc;
-    color: #000;
-    padding: 0.2em 0;
-  }
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
 }
