@@ -2,7 +2,7 @@
 
 ---
 
-**This repo is no longer supported - Thx!**
+**This repo is no longer supported - Please checkout [basejump](https://github.com/jrodl3r/basejump) instead - Thx!**
 
 ---
 
